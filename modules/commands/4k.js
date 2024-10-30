@@ -12,7 +12,7 @@ module.exports = {
     name: "upscaleai",
     aliases: ["4k", "upscale"],
     version: "1.0",
-    credits: "JARiF||Romim",
+    credits: "LIMON",
     permission: 0,
     description: "Upscale your image.",
     commandCategory: "utility",
