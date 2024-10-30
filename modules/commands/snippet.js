@@ -12,7 +12,7 @@ module.exports.config = {
     version: '1.0',
     hasPermssion: 0,
     countDowns: 5,
-    credits: 'dipto',
+    credits: 'LIMON',
     description: 'This command transforms text image',
     category: 'command',
     commandCategory: 'command',
