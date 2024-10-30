@@ -4,7 +4,7 @@ module.exports.config = {
     name: "console",
     version: "1.0.0",
     permission: 3,
-    credits: "UPDATE BY Dipto",
+    credits: "UPDATED BY LIMON",
     usePrefix: true,
     description: "This module logs chat events in the console.",
     commandCategory: "system",
