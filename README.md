@@ -1,198 +1,64 @@
-# BotPack🤖<sub><sub>v2.0.0🚀</sub></sub>
-<p align="center">
-	<a href="https://nodejs.org/dist/v16.20.0">
-		<img src="https://img.shields.io/badge/Nodejs%20Support-18.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v18.x">
-	</a>
-  <img alt="Size" src="https://img.shields.io/github/repo-size/YANDEVA/BotPack.svg?style=flat-square&label=size">
-  <img alt="Version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/YANDEVA/BotPack/raw/main/package.json&style=flat-square">
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=YANDEVA.BotPack">
+<p align="center"><a href="https://www.facebook.com/shahriarahammedlimonx" target="_blank" rel="noopener noreferrer">
+	<img src="https://i.postimg.cc/SN1xRrsP/454041135-8507442109280259-4021014996369646512-n.jpg" width="125" style="margin-right: 10px;"></a>
 </p>
-A Simple BotPack for starting a Messenger chatbot.
+<h5 align="center">
+🔹Shahriar Ahammed Limon
+</h5>
 
-<img align="center" src="https://i.ibb.co/gMMvsYf/20240125-225244-0000.png"></a>
+# 📰 Talking about Information
+<img align="right" width=200px alt="PNG" src="https://i.postimg.cc/q7fYfJsd/448708558-8245137308844075-2484928525004636312-n.jpg" />
 
-### ABOUT
+-   ⚜️ My name is Shahriar Ahammed Limon.
+-   ❤️‍🔥 06/June/2006
+-   💬 My nickname is Limon
+-   💬 I'm Single.
+- 🌱 I’m currently learning ..
+-   💓 Relationship: Single 
+-   🍁 Profile: [Facebook](https://www.facebook.com/shahriarahammedlimonx)
+-   🍀 Describe About Myself: I'm Full Time Busy Person. I've Continue My Studies. Besides work I write scripts in JavaScript To improve performance of the bot. 
+<hr>
 
-Hello there! Thank you for using BotPack! Join us at [ChatBot Community Ltd.](https://www.facebook.com/groups/178711334798450/?ref=share)🍪 if you wish to share and discover Mirai/BotPack commands created by other command creators!
 
-> [!NOTE]
-> - If you encounter any issues or difficulties, don't hesitate to reach out and ask for assistance here. Our team is here to help you with any problems you may face.
-
----
-
-### BOT DETECTION
-__=>__ Have you ever experienced this type of issue in facebook?
-  
-<img align="center" src="https://i.ibb.co/4SChsvH/facebook.jpg">
-
-Maybe, I can help you with that. So these are the things to do. Go to your **config.json** and look for **autoCreateDB**. If you found it, then simply replace true to false.
-<br><br>
-__BEFORE:__
-```json
-{
-  "autoCreateDB": true,
-}
-```
-__AFTER:__
-```json
-{
- "autoCreateDB": false,
-}
-```
-<br>
-By setting this to false, some commands like checktt, rankup and other commands that needs database may not work but it has a good benefit making your bot last longer and might avoid being suspended for a long period of time.
-
----
-
-<details>
-  <summary>What's New?</summary>
-  
-  __UPDATE!__
-  - Fixed Render Issue.
-  - Added unfont.js
-  - Added sharecontact.js
-  - Bug fixed!
-  - HandleReply.js issue fixed!
-  - Fixed FCA Issue.
-  - Added Coustom functions.
-  - Removed box and added message.
-  - Fixed all issues and updated database.
-</details>
-
-<details>
-  <summary>Languages</summary>
-  
-> - en = English-US 
-> - vi = Vietnamese 
-> - tl = Tagalog 
-> - cb = Bisaya/Cebuano
-> - bd = Bengali 
-> - ar = Arabic
-
-Go to your config.json and set it in the language property:
-```json
-{
-  "language": "en",
-}
-```
-
-Looking for a French language translation done by a local French! Your contribution would be greatly appreciated, and credits will be provided!
-</details>
-
-<details>
-  <summary>Appstate Encryption</summary>
-  
-  ### Security 
-  Are you having an issue about getting your account stolen or hacked? This might due to your appstate provided which is stolen by other users. If you feel unsecure, try setting up *"encryptSt"* to *true* in the **config.json**.
-  
-  ```json
-  {
-    "encrpytSt": true
-  }
-  ```
-
-  Encrypting won't affect the bot process and will only make the appstate harder to be used by thiefs and hackers. Furthermore, it may get laggy when opening the appstate.json after being encrypted but still it is worth a shot.
-  
-</details>
-
----
-### RENDER HOSTING
-__=>__ Host your botfile on [render.com](https://dashboard.render.com) to make your file always active.
-- If you have some issues related to render hosting! Try our newly created facebook group with render hosting discussions!
-- Im currently looking for companions and conversation starters who have some knowledge about hosting in render to become moderators.
-- Feel free to join us at [Render Community](https://www.facebook.com/groups/7389392131128817/?ref=share) on Facebook! See you there!
-[<img align="center" src="https://i.ibb.co/DMXyLm3/Picsart-24-02-14-12-25-06-014.jpg">](https://www.facebook.com/groups/7389392131128817/?ref=share&mibextid=NSMWBT)
-</h1>
-
-<details>
-  <summary>Tutorials</summary>
-
- > __How to Host BotPack on render.com?__
- ><br> Watch the tutorial [here!](https://www.facebook.com/share/v/JXGAppBJ6A9TNzjb/?mibextid=oFDknk)
- > [<img align="center" src="https://i.ibb.co/wKkZ6Lc/render.jpg">](https://www.facebook.com/share/v/JXGAppBJ6A9TNzjb/?mibextid=oFDknk)
-  
-</details>
-
----
-
-- Welcome to the [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 repository. This project is an unofficial bot file from the [Mirai](https://github.com/m1raibot/miraiv2) Repository, initially developed and maintained by [Phạm Văn Diện](https://github.com/D-Jukie/Disme-Bot.git), better known as [D-Jukie](https://github.com/D-Jukie). The base file for this project is sourced from the [Disme-Bot](https://github.com/D-Jukie/Disme-Bot.git) GitHub project.
-
-- [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 is a modified messenger bot file by [Yan Maglinte](https://replit.com/@YanMaglinte)🇵🇭. It is a refined version of the Mirai messenger bot, with some unique enhancements. 
-
-- A key feature is the `usePrefix` function integrated within every command. This function removes the need for prefixes, providing a more streamlined user experience. Alongside ready-made commands and free-to-edit codes, this bot file encourages users to learn and explore freely.
-<img align="center" src="https://i.imgur.com/Je8NbDn.jpg"/>
-
-- Further, [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 comes with a user-friendly feature that allows easy customization of your console design via the `theme` option in the config.json file. This makes it highly accessible, especially for beginners.
-<img align="center" src="https://i.imgur.com/wHD2zXv.jpg"/>
-
-<details>
-  <summary>Available Themes</summary>
-  
-> - Blue
-> - Aqua
-> - Fiery
-> - Orange
-> - Pink
-> - Red
-> - Retro
-> - Sunlight
-> - Teen
-> - Summer
-> - Flower
-> - Ghost
-> - Purple
-> - Rainbow
-> - Hacker
-
-Go to your `config.json` and set it in the language property:
-```json
-{
-  "DESIGN": {
-    "Title": "BotPack",
-    "Theme": "Blue",
-    "Admin": "YOUR_NAME"
-  }
-}
-```
-</details>
-
-- Embrace the world of possibilities with [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 - a facebook Messenger file designed to make your interaction with messenger bots smoother and more efficient.
----
+> 🔹Feel Free To Contact me
 <div align="center">
-      <h1>Author: </h1>
-      <h3>YanMaglinte🔥</h3>
-      <h3> Dip To (modifier)</h3>     
-     </div>
+			<h3>My Facebook Account ->
+	<a href="https://www.facebook.com/shahriarahammedlimonx" style="color: green;">Limon🚀</a></h3></div>
 
-- If you encounter any issues or have questions related to this REPL, please don't hesitate to reach out on Facebook!
+- If you encounter any issues or have questions related to this, please don't hesitate to reach out to me on Facebook. I'm here to assist you!
 
-### **HOW TO START USING BOTPACK?**
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Moving Logos -------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-1. Begin by navigating to [Replit](https://replit.com).
-2. Log in to your existing account or sign up for a new one.
-3. Utilize the search bar to find [BotPack](https://replit.com/@YanMaglinte/BotPack).
-4. Click on `templates`.
-5. Upon searching, select the most popular BotPack template from the results.
-6. Afterwards, click `Use Template`.
-7. After forking the template, setup your PREFIX, BOTNAME and other properties in your `config.json`.
-8. Open your `Facebook Account` that you want to turn into a chatbot.
-9. After logging in, get your appstate using [C3C fbstate](https://github.com/c3cbot/c3c-fbstate/archive/refs/tags/1.5.zip) extension.
-10. Copy the appstate, return to the repository, and paste it into your appstate.json.
-11. Now, run it, and there you have your bot!
+## **Moving Logos**
 
-> [!WARNING]
-> *There is a risk of your account being banned after running the code, so please ensure proper account management and handling. If it happens, please try logging in again and retrieve your app state.*
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+<br><br>    
 
-### CREDITS
-Special thanks to the following fellows for their amazing projects making this modified project possible:
-- SpermLord
-- CatalizCS
-- D-Jukie
-- NTKhang03
-- KhangGia1810
-- XaviaTeam
-<br>
-_Updated on: May 12, 2024 (PST)<br>Creation Date: June 11, 2023_
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Animated Social Icons ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
----
-Copyright © 2024 Yan Maglinte (YANDEVA), Philippines.<br>
+## 𝐈𝐭'𝐬 𝐌𝐞
+
+- How i feel when code doesn't works
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+<br><br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
+
+### Please 🌟 Stay with # LIMON
