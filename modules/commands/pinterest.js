@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "pinterest",
+    name: "pin",
     version: "1.0.0",
     hasPermssion: 0,
     credits: "Joshua Sy",
